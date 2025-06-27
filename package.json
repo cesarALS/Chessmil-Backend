@@ -1,0 +1,20 @@
+{
+  "name": "chessmil-backend",
+  "version": "1.0.0",
+  "description": "Chesmill's backend!",
+  "homepage": "https://github.com/cesarALS/Chessmil-Backend#readme",
+  "bugs": {
+    "url": "https://github.com/cesarALS/Chessmil-Backend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cesarALS/Chessmil-Backend.git"
+  },
+  "license": "MIT",
+  "author": "César Arthuro Lemos Silva",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  }
+}
